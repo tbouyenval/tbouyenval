@@ -1,1 +1,1 @@
-[![Theo Bouyenval GitHub stats](https://github-readme-stats.vercel.app/api?username=tbouyenval)](https://github.com/tbouyenval/github-readme-stats)
+[![Theo Bouyenval GitHub stats](https://github-readme-stats.vercel.app/api?username=tbouyenval&count_private=true)](https://github.com/tbouyenval/github-readme-stats)
