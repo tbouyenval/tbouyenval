@@ -6,7 +6,7 @@
 
 I'm comfortable for working with most of the top java framework like spring or quarkus.
 
-<img src="img/KQKNxhzS.png" data-canonical-src="img/java.png" />
+<img src="img/java.png" data-canonical-src="img/java.png" />
 
 *Build it. Ship it.* 
 
